@@ -1,3 +1,3 @@
-# StarBucks Website
+# :coffee: StarBucks Website
 
-### [Live Preview](https://kabeeryounus.github.io/new-project/) of my Website
+### [:link: Live Preview](https://kabeeryounus.github.io/new-project/) of my Website
